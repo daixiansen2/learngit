@@ -6,3 +6,8 @@ Git has a mutable index called stage.
 修改了一次.
 
 修改了二次.
+
+66666666666
+
+
+88888888
